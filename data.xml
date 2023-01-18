@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+
+<item deadline="Дата рождения (дд-мм-гггг)" id="1">
+<name>ФИО</name>
+<city>Город</city>
+<city>Комментарий</city>
+
+
+</item>
+
+<item deadline="2023-01-18" id="2"><name>Петров Артём Игоревич</name><city>309</city></item><item deadline="2023-01-09" id="3"><name>Ефремов Тихон Львович</name><city>567</city></item><item deadline="2022-12-28" id="4"><name>Гришин Фёдор Юрьевич</name><city>179</city></item><item deadline="2023-01-18" id="5"><name>Шаров Игорь Денисович</name><city>301</city></item></items>
