@@ -55,7 +55,7 @@
     }
     ?>
     <form method="POST" action="create.php">
-        <div style="background-color: #AFEEEE; margin-left:10px; margin-right:1030px; border-radius: 30px; padding-top: 10px; padding-bottom: 10px; margin-top:50px; padding-left: 30px; margin-bottom:40px; ">
+        <div style="background-color: #AFEEEE; margin-left:10px; width:420px; border-radius: 30px; padding-top: 10px; padding-bottom: 10px; margin-top:50px; padding-left: 30px; margin-bottom:40px; ">
             <p style="font-family:'Comfortaa';"> ФИО <input type="text" name="task_name" required /><br /></p>
             <p style="font-family:'Comfortaa';"> Номер <input type="text" name="city" /><br /></p>
             <p style="font-family:'Comfortaa';">Дата заселения  <input type="date" name="deadline" /><br /></p>
